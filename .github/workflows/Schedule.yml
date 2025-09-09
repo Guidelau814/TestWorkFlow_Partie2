@@ -1,5 +1,3 @@
-name: Déclencheur planifié (CRON) avec push
-
 on:
   push:
     branches: [main]
